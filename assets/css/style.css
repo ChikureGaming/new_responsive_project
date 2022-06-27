@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background: red;
+}
+.caja2{
+}
+.caja3{
+    display: block;
+}
+.caja4{
+    display: block;
+    
+}
+.caja5{
+
+}
